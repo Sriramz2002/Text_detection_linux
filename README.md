@@ -1,1 +1,1 @@
-# Text_detection_linux
+# buildroot setup here
